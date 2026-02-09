@@ -1,4 +1,4 @@
-# Python Operators & Conditional Statements 🚀
+# Python Basics  🚀
 
 This repository contains my practice work while learning Python fundamentals.
 
@@ -12,6 +12,13 @@ This repository contains my practice work while learning Python fundamentals.
 - Check Even or Odd
 - Status checking using if-else
 
+## 🔁 Loops in Python
+- For loop (basic & range-based)
+- While loop
+- Jumping statements (break, continue)
+- else with loops
+- Practice problems (factorial, square printing)
+
 ## 🧠 What I Practiced
 - Using operators in real Python programs
 - Writing conditional logic with `if`, `else`
@@ -23,9 +30,9 @@ This repository contains my practice work while learning Python fundamentals.
 
 ## 🌱 Learning Progress
 Currently strengthening Python basics before moving to:
-- Loops
 - Functions
 - Data Structures
 - Generative AI concepts
 
 📌 *This repository will be updated as I continue learning.*
+
