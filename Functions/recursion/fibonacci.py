@@ -1,0 +1,16 @@
+
+'''Given a non negative integer n, your task is to find the nth fibonacci series'''
+
+def fibonacciSeries(n):
+    if n==0:
+        return 0
+    
+    a,b=0,1
+
+    for _ in range (1,n):
+        a,b=b,a+b
+    
+    return b
+
+n=int(input())
+print(fibonacciSeries(n))
