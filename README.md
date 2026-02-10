@@ -19,10 +19,16 @@ This repository contains my practice work while learning Python fundamentals.
 - else with loops
 - Practice problems (factorial, square printing)
 
-## 🧠 What I Practiced
-- Using operators in real Python programs
-- Writing conditional logic with `if`, `else`
-- Solving beginner-level problems from GeeksforGeeks
+  
+## 🧩 Python Functions & Functional Programming
+- Defining functions with and without arguments
+- Return values
+- Local vs Global scope
+- Recursion (factorial, fibonacci)
+- Lambda functions
+- map(), filter(), reduce()
+- Decorators
+- Practice problems (subset sum, majority element, sequences)
 
 ## 🛠 Tools Used
 - Python 3
@@ -30,7 +36,6 @@ This repository contains my practice work while learning Python fundamentals.
 
 ## 🌱 Learning Progress
 Currently strengthening Python basics before moving to:
-- Functions
 - Data Structures
 - Generative AI concepts
 
