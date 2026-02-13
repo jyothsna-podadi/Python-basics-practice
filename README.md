@@ -30,6 +30,34 @@ This repository contains my practice work while learning Python fundamentals.
 - Decorators
 - Practice problems (subset sum, majority element, sequences)
 
+
+## 🧱 Python Data Structures & Strings
+
+### 🔤 Strings
+- Case conversion
+- Reverse string
+- Palindrome check
+- Handling large numbers as strings
+
+### 📋 Lists
+- List traversal
+- Length operations
+- Value updates
+- List comprehension
+
+### 🔗 Tuples
+- Basic tuple usage
+
+### 📚 Dictionaries
+- Creating and accessing key-value pairs
+
+### 🧮 Sets
+- Set operations (union, intersection, difference)
+
+### 📦 Arrays
+- Basic array usage in Python
+
+
 ## 🛠 Tools Used
 - Python 3
 - VS Code
